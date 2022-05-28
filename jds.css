@@ -1,0 +1,114 @@
+html {
+    scroll-behavior: smooth;
+  }
+.header{
+    display: flex;
+    background: rgba(50, 114, 242, 0.964)
+
+    
+}
+.header_left_elements{
+    margin-left: 600px;
+    display: flex;
+}
+.header_right_elements{
+    margin-left: 15px;
+}
+#header_element{
+    margin-left: 40px;
+}
+.main_image{
+    text-align: center;
+    margin-top: 20px;
+    
+    
+
+}
+.inimage_content{
+    position: absolute;
+    bottom: 0;
+    padding-left: 150px;
+    font-size: x-large;
+    color: white;
+  
+  
+}
+.main_image_button{
+    background-color: antiquewhite;
+    padding: 16px 40px;
+    border: none;
+}
+.trainers{
+    text-align: center;
+}
+.image_links{
+    display: flex;
+    
+}
+.booknow{
+    background-color: bisque;
+    padding: 15px 130px;
+    border: none;
+   
+}
+.justbox{
+    padding-left: 10px;
+}
+.imagebelowbox{
+    background-color: aliceblue;
+    margin: 10px;
+    width: 83%;
+    margin-left: 50px;
+    box-shadow: 10px 10px 8px 10px #888888;
+    
+   
+}
+
+.activities{
+    text-align: center;
+}
+.againimages{
+    padding-left: 130px ;
+}
+.contact{
+    text-align: center;
+
+}
+.form{
+text-align: center;
+}
+input{
+    height: 50px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.send_message{
+   padding: 15px 520px;
+    background-color: burlywood;
+    border: none;
+    font-size: 16px;
+
+}
+.footer{
+    padding-top: ;
+    text-align: center;
+    height: 200px;
+    background-color: darkcyan;
+    border-radius: 5px;
+}
+.send{
+  border-radius: 20px;
+  border: none;
+  padding: 15px 32px; 
+}
+a:link {
+    text-decoration: none;
+    color: black;
+  }
+  a:hover{
+      background-color: dimgray;
+  }
+
+
+
+
